@@ -3,8 +3,6 @@
     "type": "library",
     "description": "A simple API extension for ORM.",
     "keywords": ["orm", "sql", "mapping","sqlmap"],
-    "homepage": "",
-    "license": "MIT",
     "authors": [
         {
             "name": "Surya",
